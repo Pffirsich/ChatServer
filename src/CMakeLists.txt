@@ -1,0 +1,3 @@
+#去子目录server中加载可执行文件
+add_subdirectory(server)
+add_subdirectory(client)

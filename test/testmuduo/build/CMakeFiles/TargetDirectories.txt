@@ -1,0 +1,3 @@
+/data/zyh/code/testmuduo/build/CMakeFiles/server.dir
+/data/zyh/code/testmuduo/build/CMakeFiles/edit_cache.dir
+/data/zyh/code/testmuduo/build/CMakeFiles/rebuild_cache.dir
